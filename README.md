@@ -1,4 +1,4 @@
 addti.github.com
 ================
 
-Site da Empresa AddTI
+Site de projetos open-source da Empresa Add TI Integradora de Soluções LTDA
